@@ -1,0 +1,6 @@
+[submodule "openpilot"]
+	path = openpilot
+	url = https://github.com/jeroenlammersma/openpilot
+[submodule "openpilot-dev"]
+	path = openpilot-dev
+	url = https://github.com/jeroenlammersma/openpilot-dev
